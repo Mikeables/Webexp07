@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Webexp07/static/css/main.634e6d3b.css",
+    "main.js": "/Webexp07/static/js/main.249e252f.js",
+    "index.html": "/Webexp07/index.html",
+    "main.634e6d3b.css.map": "/Webexp07/static/css/main.634e6d3b.css.map",
+    "main.249e252f.js.map": "/Webexp07/static/js/main.249e252f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634e6d3b.css",
+    "static/js/main.249e252f.js"
+  ]
+}

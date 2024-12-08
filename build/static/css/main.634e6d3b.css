@@ -1,0 +1,2 @@
+body{align-items:center;background-color:#f0f0f0;font-family:sans-serif;height:100vh;justify-content:center;margin:0;padding:0}.game,body{display:flex}.game{flex-direction:row}.game-board{margin-right:20px}.board-row{display:flex}.square{background:#fff;border:1px solid #999;cursor:pointer;font-size:18px;font-weight:700;height:30px;outline:none;width:30px}.square:focus{background:#ddd}.status{margin-bottom:10px}.game-info{margin-left:20px}button{cursor:pointer;font-size:14px;margin-top:5px;padding:5px 10px}
+/*# sourceMappingURL=main.634e6d3b.css.map*/
